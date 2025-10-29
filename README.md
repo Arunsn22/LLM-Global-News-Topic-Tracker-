@@ -1,8 +1,6 @@
 # LLM-Global-News-Topic-Tracker-
 # 📝 Learning Log: Streamlit + Ollama News Summarizer
 
-## Date: August 2025
-
 ## Project: Global News Tracker using Streamlit + Ollama (LLaMA 3) + RSS
 
 ---
